@@ -5,7 +5,7 @@ get '/symbols/window.html' do
 end
 
 get '/symbols/:class.html' do |klass|
-  redirect "http://emberjs.com/api/classes/#{klass}"
+  redirect "http://emberjs.com/api/classes/#{klass}.html"
 end
 
 get '*' do |path|
