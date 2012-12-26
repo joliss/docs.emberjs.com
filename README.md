@@ -1,5 +1,6 @@
 Sinatra app for redirecting from http://docs.emberjs.com/ and
-http://docs.edge.emberjs.com/ to http://emberjs.com/api/.
+http://docs.edge.emberjs.com/ to http://emberjs.com/api/. Based on
+https://github.com/joliss/sinatra-redirector.
 
 Deploy to Heroku:
 
